@@ -87,4 +87,4 @@ collections:
 # Plugin settings
 scholar:
   style: american-medical-association
-  source: ./docs/_bibliography
+  source: ./docs/_bibliography/references.bib
